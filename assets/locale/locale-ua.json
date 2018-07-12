@@ -1,0 +1,35 @@
+{
+  "menu": {
+    "home": "головна",
+    "smartHouse": "кмітливий будинок",
+    "climateControl": "клімат контроль",
+    "contacts": "контакти"
+  },
+  "main": {
+    "left": {
+      "title": "Smart House1",
+      "description": "House, which guesses your needs, knows your habits, and does everything that you are surrounded by comfort and convenience. that you are surrounded by comfort and conven."
+    },
+    "right": {
+      "title": "Climate Control1",
+      "description": "The climate of any particular place is influenced by a host of interacting factors. These include latitude, elevation, nearby water. These include latitude."
+    }
+  },
+  "contacts": {
+    "title": "Контакти",
+    "persons": {
+      "shelmuk": {
+        "name": "Юрій Шельмук",
+        "phone": "+38 (066) 494-66-18"
+      },
+      "veremchuk": {
+        "name": "Олександр Веремчук",
+        "phone": "+38 (096) 972-91-75"
+      }
+    },
+    "workTime": {
+      "description": "Робочій час:",
+      "hours": "8:00 - 20:00"
+    }
+  }
+}
